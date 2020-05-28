@@ -1,0 +1,5 @@
+2020-01-24 15:36:32.567 [FATAL] cs455.overlay.Library (main) - This is a FATAL
+2020-01-24 15:36:32.570 [ERROR] cs455.overlay.Library (main) - This is a ERROR
+2020-01-24 15:36:32.570 [WARN ] cs455.overlay.Library (main) - This is a WARN
+2020-01-24 15:36:32.570 [INFO ] cs455.overlay.Library (main) - This is a INFO
+2020-01-24 15:36:32.570 [DEBUG] cs455.overlay.Library (main) - This is a DEBUG
